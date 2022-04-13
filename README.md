@@ -8,13 +8,3 @@ part4 : 시각화를 위한 OnehotEncoding 및 레이블링을 자세하게 수�
 part5 : 부정 문장의 설명을 위한 WordCloud 구성  
 
   해당 프로젝트는 데이터 제공 기업과의 NDA 체결로 인해 데이터의 상세 정보 및 코드 실행 결과를 게시할 수 없는 점 양해 부탁드립니다.
-
-KcELECTRA MIT License  
-@misc{lee2021kcelectra,  
-  author = {Junbum Lee},  
-  title = {KcELECTRA: Korean comments ELECTRA},  
-  year = {2021},  
-  publisher = {GitHub},  
-  journal = {GitHub repository},  
-  howpublished = {\url{https://github.com/Beomi/KcELECTRA}}  
-}
